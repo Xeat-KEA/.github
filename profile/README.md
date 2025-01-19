@@ -20,15 +20,15 @@
 
 ## 팀원 구성
 
-<div align="center">
-| **PM/BE** | **PL/FE** | **PL/BE** | **FE** | **INFRA** | **BE** | **BE** | **BE** |
-| :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | 
-| **김민서** | **윤장호** | **박재학** | **김규리** | **박정재** | **이규동** | **이동석** | **최효성** |
-| :------: | :------: | :------: | :------: | :------: |  :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/hurrayPersimmon" height=150 width=150> <br/> @hurrayPersimmon](https://github.com/hurrayPersimmon) | [<img src="https://avatars.githubusercontent.com/seorang42" height=150 width=150> <br/> @seorang42](https://github.com/seorang42) | [<img src="https://avatars.githubusercontent.com/parkjaehak" height=150 width=150> <br/> @parkjaehak](https://github.com/parkjaehak) | [<img src="https://avatars.githubusercontent.com/lamiiiii" height=150 width=150> <br/> @lamiiiii](https://github.com/lamiiiii) | [<img src="https://avatars.githubusercontent.com/j-ash0224" height=150 width=150> <br/> @j-ash0224](https://github.com/j-ash0224) | [<img src="https://avatars.githubusercontent.com/starboxxxx" height=150 width=150> <br/> @starboxxxx](https://github.com/starboxxxx) | [<img src="https://avatars.githubusercontent.com/DaveLee-b" height=150 width=150> <br/> @DaveLee-b](https://github.com/DaveLee-b) | [<img src="https://avatars.githubusercontent.com/hyoseong-Choi" height=150 width=150> <br/> @hyoseong-Choi](https://github.com/hyoseong-Choi) |
+| **PM/BE** | **PL/FE** | **PL/BE** |
+| :------: | :------: | :------: | 
+| **김민서** | **윤장호** | **박재학** |
+| [<img src="https://avatars.githubusercontent.com/hurrayPersimmon" height=150 width=150> <br/> @hurrayPersimmon](https://github.com/hurrayPersimmon) | [<img src="https://avatars.githubusercontent.com/seorang42" height=150 width=150> <br/> @seorang42](https://github.com/seorang42) | [<img src="https://avatars.githubusercontent.com/parkjaehak" height=150 width=150> <br/> @parkjaehak](https://github.com/parkjaehak) |
 
-</div>
-
+| **FE** | **INFRA** | **BE** | **BE** | **BE** |
+| :------: | :------: | :------: | :------: | :------: |
+| **김규리** | **박정재** | **이규동** | **이동석** | **최효성** |
+| [<img src="https://avatars.githubusercontent.com/lamiiiii" height=150 width=150> <br/> @lamiiiii](https://github.com/lamiiiii) | [<img src="https://avatars.githubusercontent.com/j-ash0224" height=150 width=150> <br/> @j-ash0224](https://github.com/j-ash0224) | [<img src="https://avatars.githubusercontent.com/starboxxxx" height=150 width=150> <br/> @starboxxxx](https://github.com/starboxxxx) | [<img src="https://avatars.githubusercontent.com/DaveLee-b" height=150 width=150> <br/> @DaveLee-b](https://github.com/DaveLee-b) | [<img src="https://avatars.githubusercontent.com/hyoseong-Choi" height=150 width=150> <br/> @hyoseong-Choi](https://github.com/hyoseong-Choi) |
 <br>
 
 ## 1. 개발 환경
